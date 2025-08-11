@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ## 📌 About Me:
 
-- 👨‍💻 Data Engineer 
-- ⚡ Data Scientist
-- 💼 Data Analyst
--    Software Developer  
+-  Data Engineer 
+-  Data Scientist
+-  Data Analyst
+-  Software Developer  
 - 🌎 [shubhamhingu.github.io](https://shubhamhingu.github.io)
 
 ---
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats: -->
 
 <!-- Profile Summary Card 
 <p align="center">
